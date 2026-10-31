@@ -1,0 +1,62 @@
+{
+  "dataset": "data/demo",
+  "movie_count": 50,
+  "rating_count": 3060,
+  "user_count": 90,
+  "train_interactions": 2970,
+  "held_out_positive_interactions": 90,
+  "positive_threshold": 4.0,
+  "explanation_unique_sentence_ratio": 0.8,
+  "explanation_note": "Unique Sentence Ratio (USR) is computed over one top-1 explanation per evaluated user; it measures variation, not human-perceived quality.",
+  "metrics": [
+    {
+      "Method": "popularity",
+      "HR@5": 0.23333333333333334,
+      "HR@10": 0.5555555555555556,
+      "Recall@5": 0.23333333333333334,
+      "Recall@10": 0.5555555555555556,
+      "NDCG@5": 0.1217215155129588,
+      "NDCG@10": 0.22356689426355184,
+      "MAP@10": 0.12640211640211643,
+      "Precision@10": 0.055555555555555546,
+      "Evaluated users": 90
+    },
+    {
+      "Method": "content",
+      "HR@5": 0.4111111111111111,
+      "HR@10": 0.7444444444444445,
+      "Recall@5": 0.4111111111111111,
+      "Recall@10": 0.7444444444444445,
+      "NDCG@5": 0.28485406146570286,
+      "NDCG@10": 0.39096736339075494,
+      "MAP@10": 0.2866975308641975,
+      "Precision@10": 0.07444444444444444,
+      "Evaluated users": 90
+    },
+    {
+      "Method": "bpr",
+      "HR@5": 0.26666666666666666,
+      "HR@10": 0.5666666666666667,
+      "Recall@5": 0.26666666666666666,
+      "Recall@10": 0.5666666666666667,
+      "NDCG@5": 0.15138910471763434,
+      "NDCG@10": 0.2459111619527092,
+      "MAP@10": 0.15107142857142858,
+      "Precision@10": 0.05666666666666665,
+      "Evaluated users": 90
+    },
+    {
+      "Method": "hybrid",
+      "HR@5": 0.4444444444444444,
+      "HR@10": 0.7,
+      "Recall@5": 0.4444444444444444,
+      "Recall@10": 0.7,
+      "NDCG@5": 0.29063329325513054,
+      "NDCG@10": 0.37237361695609383,
+      "MAP@10": 0.2741093474426808,
+      "Precision@10": 0.06999999999999999,
+      "Evaluated users": 90
+    }
+  ],
+  "note": "Demo data are synthetic. Unobserved candidate items are treated as non-relevant for ranking evaluation."
+}

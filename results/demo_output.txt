@@ -1,0 +1,27 @@
+CineMatch demo - User 1
+
+1. Toy Story (Animation|Adventure|Comedy|Children)  score=0.976
+   Why: Recommended because your highly rated movies often involve humour and comedy, emotion and relationships. This title also offers humour and comedy, emotion and relationships, alongside its Animation|Adventure|Comedy|Children genre mix.
+
+2. Inside Out (Animation|Children|Comedy|Drama)  score=0.945
+   Why: Recommended because your highly rated movies often involve humour and comedy, emotion and relationships. This title also offers humour and comedy, emotion and relationships, alongside its Animation|Children|Comedy|Drama genre mix.
+
+3. Knives Out (Comedy|Crime|Drama|Mystery)  score=0.588
+   Why: Recommended because your highly rated movies often involve humour and comedy, emotion and relationships. This title also offers humour and comedy, emotion and relationships, alongside its Comedy|Crime|Drama|Mystery genre mix.
+
+4. Spider-Man: Into the Spider-Verse (Animation|Action|Adventure|Sci-Fi)  score=0.466
+   Why: Recommended because your highly rated movies often involve humour and comedy, emotion and relationships. This title also offers visuals and cinematography, adventure, alongside its Animation|Action|Adventure|Sci-Fi genre mix.
+
+5. Spirited Away (Animation|Adventure|Fantasy)  score=0.373
+   Why: Recommended because your highly rated movies often involve humour and comedy, emotion and relationships. This title also offers visuals and cinematography, adventure, alongside its Animation|Adventure|Fantasy genre mix.
+
+6. The Dark Knight (Action|Crime|Drama)  score=0.234
+   Why: Recommended because your highly rated movies often involve humour and comedy, emotion and relationships. This title also offers emotion and relationships, action and stunts, alongside its Action|Crime|Drama genre mix.
+
+7. Mad Max: Fury Road (Action|Adventure|Sci-Fi|Thriller)  score=0.208
+   Why: Recommended because your highly rated movies often involve humour and comedy, emotion and relationships. This title also offers adventure, action and stunts, alongside its Action|Adventure|Sci-Fi|Thriller genre mix.
+
+8. Gladiator (Action|Adventure|Drama)  score=0.187
+   Why: Recommended because your highly rated movies often involve humour and comedy, emotion and relationships. This title also offers emotion and relationships, adventure, alongside its Action|Adventure|Drama genre mix.
+
+Saved recommendations to /mnt/data/movie_recommender_nlp/results/sample_recommendations.csv
